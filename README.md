@@ -5,6 +5,6 @@ Contains software and data to produce ocean mass time series from GRACE gravimet
 when using data or software from this repository please cite: TBD and provide a link to this repository.
 
 ## Usage
-see .
+see.
 
 
